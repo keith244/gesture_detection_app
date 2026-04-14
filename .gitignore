@@ -1,0 +1,6 @@
+*env310
+chat_cam.py
+*.webp
+*.jfif
+*.jpg
+.venv
